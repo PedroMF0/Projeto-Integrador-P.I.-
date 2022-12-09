@@ -18,7 +18,7 @@ public class PI {
             System.out.println("===============");
             System.out.print(" => Qual a sua opção? ");
             menu = read.nextInt();
-            
+             
          switch(menu){  
              case 1:
                 System.out.print ("Digite seu nome: ");
